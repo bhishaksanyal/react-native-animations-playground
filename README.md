@@ -18,3 +18,9 @@ credits [Catalin Miron](https://www.youtube.com/watch?v=F8x-dyIsrJ8&ab_channel=C
 https://user-images.githubusercontent.com/26772694/233848550-445368dc-1609-4583-8bf3-8787fd4620d4.mp4
 
 credits [Catalin Miron](https://www.youtube.com/watch?v=gOj4BlzYF4A&ab_channel=CatalinMiron)
+
+### React Native Loading Animation - React Native Moti
+
+https://user-images.githubusercontent.com/26772694/235354553-b0e4af70-c12d-47b7-97a5-9e0003c3f17b.mp4
+
+credits [Catalin Miron](https://www.youtube.com/watch?v=e5_auZoh85w&ab_channel=CatalinMiron)
